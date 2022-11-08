@@ -7,6 +7,8 @@ import java.util.ArrayList;
  * @version (un numéro de version ou une date)
  */
 public class Boowie extends Robot
+
+//boboboboboboooooooowie
 {
     // variables d'instance - remplacez l'exemple qui suit par le vôtre
     Random random = new Random();
